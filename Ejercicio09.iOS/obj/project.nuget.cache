@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "4lluQKZoak/Eu4mqbMPzwv9Bu1EO+9yBEnaGx4swGDVo4gNAHItu9eioxBgDM/lTHVWuSP9TQO1LeiVLfDygeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC PRIME GOLD 60\\source\\repos\\Ejercicio09\\Ejercicio09.iOS\\Ejercicio09.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC PRIME GOLD 60\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1605",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Degradación del paquete detectada: Xamarin.Forms de 4.6.0.800 a 4.4.0.991265. Haga referencia al paquete directamente desde el proyecto para seleccionar una versión diferente. \r\n Ejercicio09.iOS -> Ejercicio09 -> Xamarin.Forms (>= 4.6.0.800) \r\n Ejercicio09.iOS -> Xamarin.Forms (>= 4.4.0.991265)",
+      "libraryId": "Xamarin.Forms",
+      "targetGraphs": [
+        "Xamarin.iOS,Version=v1.0",
+        "Xamarin.iOS,Version=v1.0/win",
+        "Xamarin.iOS,Version=v1.0/win-x64",
+        "Xamarin.iOS,Version=v1.0/win-x86"
+      ]
+    }
+  ]
+}
